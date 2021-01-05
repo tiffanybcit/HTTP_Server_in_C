@@ -1,4 +1,4 @@
-# Team MIT HTTP Server Project
+# Team MIT HTTP Server Project (with @mlayon, @lawly)
 ### Note: To run this server, you must have CMake Version 3.18 installed on your computer.
 ## Basic Information
 Program written in: C  
